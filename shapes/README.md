@@ -8,3 +8,5 @@
 ![](figures/mosaic-4.png)
 
 ![](figures/mosaic-5.png)
+
+![](figures/mosaic-skeleton.png)
